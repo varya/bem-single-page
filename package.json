@@ -1,0 +1,21 @@
+{
+  "author": "",
+  "name": "bem-single-page",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/toivonen/bem-single-page"
+  },
+  "engines": {
+    "node": "0.6 | 0.7"
+  },
+  "dependencies": {
+    "bem": "~0.5.17",
+    "ometajs": "~2.1.10",
+    "xjst": "0.2.21",
+    "dom-js": "*"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "private": true
+}
